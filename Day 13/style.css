@@ -1,0 +1,92 @@
+.pic{
+    height:370px;
+    width: 100%;
+    background-image: url(./foodpic\ \(1\).jpg);
+    background-size:cover;    
+    background-repeat: no-repeat;
+}
+.topic{
+   text-align: center;
+}
+.twoboxes{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+
+.box{
+    display: flex;
+    
+    align-items: center;
+    gap:20px;
+}
+/*.text{
+    height: 30px;
+    width:60px;
+    
+}*/
+.Breakfast{ 
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+    color: rgb(91, 91, 233);
+ }
+ .Dscrptn1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: grey;
+ }
+
+ .Lunch{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+    color: rgb(91, 91, 233);
+ }
+ .Dscrptn2{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: grey;
+ }
+
+ .Snacks{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(91, 91, 233);
+ }
+ .Dscrptn3{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: grey;
+ }
+
+ .Dinner{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(91, 91, 233);
+ }
+ .Dscrptn4{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: grey;
+ }
+
+
+ .Drinks{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(91, 91, 233);
+ }
+ .Dscrptn5{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: grey;
+ }
+
+ .Nightlife{
+     font-family: 'Times New Roman', Times, serif;
+     color: rgb(91, 91, 233);
+ }
+ .Dscrptn6{
+     font-family: 'Times New Roman', Times, serif;
+     font-weight: bold;
+     color: grey;
+ }
+
+    

@@ -1,0 +1,22 @@
+.orangecolor{
+    height: 35px;
+    background-color: orangered;
+}
+.bluecolor{
+    height:35px;
+    background-color: lightblue;
+    border:1px solid black;
+}
+.greencolor{
+    height:35px;
+    background-color: aquamarine;
+    border:1px solid black;
+}
+
+.purplecolor{
+    height: 35px;
+    background-color: rgb(82, 24, 132);
+    border: 1px solid black;
+    
+}
+
